@@ -1,11 +1,10 @@
 import React from "react";
 import Model1 from '../Images/m1.JPG';
 import Model2 from '../Images/m2.JPG';
-// import Header from "components/Header";
 
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
-// import ExternalInfo from "components/ExternalInfo";
+
 const IMAGES = [
   "https://source.unsplash.com/WLUHO9A_xik/1600x900",
   "https://source.unsplash.com/dpbXgTh0Lac/1600x900",
